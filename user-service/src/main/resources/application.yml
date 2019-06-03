@@ -1,0 +1,30 @@
+#server:
+#  port: 8090
+#eureka:         #tells about the Eureka server details and its refresh time
+#  instance:
+#    leaseRenewalIntervalInSeconds: 1
+#    leaseExpirationDurationInSeconds: 2
+#  client:
+#    serviceUrl:
+#      defaultZone: http://127.0.0.1:8761/eureka/
+#    healthcheck:
+#      enabled: true
+#    lease:
+#      duration: 5
+#spring:
+#  application:
+#    name: user-service
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/userService
+#    username: root
+#    password: Destiny1!
+#
+#  jpa:
+#    database: MYSQL
+#    hibernate:
+#      ddl-auto: create-drop
+#  logging:
+#    level:
+#      com.stackroute.route: DEBUG
+#

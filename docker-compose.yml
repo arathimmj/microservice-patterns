@@ -1,0 +1,43 @@
+version: "2"
+services:
+
+  eureka:
+    build: ./eureka-server-service
+    network_mode: host
+    ports:
+      - 8761:8761
+
+  config:
+    build: ./spring-config-server
+    network_mode: host
+    ports:
+      - 8888:8888
+
+  track:
+    build: ./track-service
+    network_mode: host
+    depends_on:
+      - config
+      - eureka
+    ports:
+      - 8070:8070
+
+  user:
+    build: ./user-service
+    network_mode: host
+    depends_on:
+      - config
+      - eureka
+    ports:
+      - 8090:8090
+
+  gateway:
+    build: ./gateway-service
+    network_mode: host
+    depends_on:
+      - user
+      - track
+    ports:
+      - 8080:8080
+
+
