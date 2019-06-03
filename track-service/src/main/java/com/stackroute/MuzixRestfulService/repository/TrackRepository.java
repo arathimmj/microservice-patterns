@@ -9,7 +9,4 @@ import java.util.Optional;
 
 public interface TrackRepository extends MongoRepository<Track, Integer> {
 
-    /*@Query(value = "{ }SELECT * FROM track WHERE TRACK_NAME=?1", nativeQuery = true)
-    public List<Track> findTrackByName(String name);*/
-
 }

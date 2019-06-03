@@ -1,4 +1,4 @@
-package com.stackroute.MuzixRestfulService;
+package com.stackroute.MuzixRestfulService.exceptions;
 
 public class ResponseForException {
 

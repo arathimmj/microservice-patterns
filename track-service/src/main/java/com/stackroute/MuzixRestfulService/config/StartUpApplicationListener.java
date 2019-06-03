@@ -1,4 +1,4 @@
-package com.stackroute.MuzixRestfulService;
+package com.stackroute.MuzixRestfulService.config;
 
 import com.stackroute.MuzixRestfulService.domain.Track;
 import com.stackroute.MuzixRestfulService.service.TrackService;

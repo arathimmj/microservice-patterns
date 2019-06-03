@@ -1,7 +1,5 @@
-package com.stackroute.MuzixRestfulService;
+package com.stackroute.MuzixRestfulService.exceptions;
 
-import com.stackroute.MuzixRestfulService.exceptions.TrackAlreadyExistsException;
-import com.stackroute.MuzixRestfulService.exceptions.TrackNotFoundException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
@@ -11,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 public class ExceptionControllerAdvice {
 
     @ExceptionHandler(TrackAlreadyExistsException.class)
-    public ResponseForException handleTrackAlreadyExistsException(TrackAlreadyExistsException trackAlreadyExistsException,final HttpServletRequest request) {
+    public ResponseForException handleTrackAlreadyExistsException(TrackAlreadyExistsException trackAlreadyExistsException, final HttpServletRequest request) {
 
         ResponseForException error = new ResponseForException();
         error.setErrorMessage(trackAlreadyExistsException.getMessage());

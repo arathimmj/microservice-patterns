@@ -21,15 +21,6 @@ public class TrackController {
     @Autowired
     private TrackService trackService;
 
-    /*@EventListener
-    public void seed(ContextRefreshedEvent event) {
-
-        Track track = new Track(6,"For You","Rita Ora");
-
-        trackService.seedData(track);
-
-    }*/
-
     @PostMapping("track")
     public ResponseEntity<?> saveTrack(@RequestBody Track track) throws TrackAlreadyExistsException {
         ResponseEntity responseEntity;
