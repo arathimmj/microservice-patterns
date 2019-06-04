@@ -6,7 +6,7 @@
 		<groupId>com.stackroute</groupId>
 		<artifactId>microservice-patterns</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-<!--		<relativePath/> &lt;!&ndash; lookup parent from repository &ndash;&gt;-->
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<groupId>com.stackroute</groupId>
 	<artifactId>SpringBoot_Restful_Service</artifactId>
