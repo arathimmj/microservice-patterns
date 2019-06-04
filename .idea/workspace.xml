@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a3aebc1-2586-459e-b271-e1b74a3fceea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/eureka-server-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/com/stackroute/gatewayproxyservice/GatewayproxyserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/com/stackroute/gatewayproxyservice/GatewayproxyserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-config-server/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-config-server/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/ExceptionControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ExceptionControllerAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/ResponseForException.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ResponseForException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/StartUpApplicationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/config/StartUpApplicationListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/config/WebConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UserService.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/track-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/MuzixRestfulServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/MuzixRestfulServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/config/StartUpApplicationListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ExceptionControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ExceptionControllerAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/TrackService/target/" />
@@ -28,93 +32,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ResponseForException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/config/StartUpApplicationListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/SpringBootRestfulServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/service/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/repository/UserRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/exception/UserAlreadyExistsException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/domain/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -122,19 +43,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/gateway-service/src/main/java/com/stackroute/gatewayproxyservice/GatewayproxyserviceApplication.java" />
         <option value="$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/eureka-server-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring-config-server/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/controller/TrackController.java" />
+        <option value="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/domain/Track.java" />
+        <option value="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/repository/TrackRepository.java" />
+        <option value="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/service/TrackService.java" />
+        <option value="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/service/TrackServiceImpl.java" />
+        <option value="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/MuzixRestfulServiceApplication.java" />
         <option value="$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ExceptionControllerAdvice.java" />
+        <option value="$PROJECT_DIR$/track-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/UserService.properties" />
+        <option value="$PROJECT_DIR$/TrackService.properties" />
+        <option value="$PROJECT_DIR$/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
         <option name="lookForNested" value="true" />
       </MavenImportingSettings>
     </option>
@@ -165,255 +99,6 @@
               <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekaserverservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gatewayproxyservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springconfigserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="track-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="track-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="track-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="track-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="track-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="MuzixRestfulService" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="user-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot_Restful_Service" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -437,6 +122,82 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.GatewayproxyserviceApplication">
+    <configuration name="EurekaServerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.eurekaserverservice.EurekaServerServiceApplication" />
+      <module name="eureka-server-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.eurekaserverservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayproxyserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.gatewayproxyservice.GatewayproxyserviceApplication" />
+      <module name="gateway-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.gatewayproxyservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MuzixRestfulServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.MuzixRestfulService.MuzixRestfulServiceApplication" />
+      <module name="track-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.MuzixRestfulService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootRestfulServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.SpringBoot_Restful_Service.SpringBootRestfulServiceApplication" />
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.SpringBoot_Restful_Service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.springconfigserver.SpringConfigServerApplication" />
+      <module name="spring-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.springconfigserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatewayproxyserviceApplication" />
+        <item itemvalue="Application.SpringBootRestfulServiceApplication" />
+        <item itemvalue="Application.MuzixRestfulServiceApplication" />
+        <item itemvalue="Application.EurekaServerServiceApplication" />
+        <item itemvalue="Application.SpringConfigServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -452,91 +213,47 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08847185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.32952252" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40616623" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24949563" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32952252" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eureka-server-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/track-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/track-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/track-service/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/bootstrap.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server-service/src/main/java/com/stackroute/eurekaserverservice/EurekaServerServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/com/stackroute/gatewayproxyservice/GatewayproxyserviceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -579,27 +296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ExceptionControllerAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ResponseForException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/config/StartUpApplicationListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/SpringBootRestfulServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -628,13 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/exception/UserAlreadyExistsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -642,19 +331,201 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/config/WebConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#592#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/config/WebConfiguration.java" />
     <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/config/WebConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/controller/TrackController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/domain/Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ResponseForException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/TrackAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/repository/TrackRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/service/TrackService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/service/TrackServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/TrackNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-config-server/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/config/StartUpApplicationListener.java" />
+    <entry file="file://$PROJECT_DIR$/eureka-server-service/src/main/java/com/stackroute/eurekaserverservice/EurekaServerServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/stackroute/SpringBoot_Restful_Service/exception/UserAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/exceptions/ExceptionControllerAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="7" selection-start-line="12" selection-start-column="6" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/src/main/java/com/stackroute/MuzixRestfulService/MuzixRestfulServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserService.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GatewayService.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrackService.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/track-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
