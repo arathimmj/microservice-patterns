@@ -16,6 +16,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("api/v1/")
+@CrossOrigin(origins = "http://localhost:4200")
 public class TrackController {
 
     @Autowired
@@ -24,6 +25,7 @@ public class TrackController {
     @PostMapping("track")
     public ResponseEntity<?> saveTrack(@RequestBody Track track) throws TrackAlreadyExistsException {
         ResponseEntity responseEntity;
+        System.out.println("inside post");
         try {
             Track trackOne = trackService.saveTrack(track);
             responseEntity = new ResponseEntity<Track>(track, HttpStatus.CREATED);

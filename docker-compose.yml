@@ -34,9 +34,9 @@ services:
   gateway:
     build: ./gateway-service
     network_mode: host
-    depends_on:
-      - user
-      - track
+#    depends_on:
+#      - user
+#      - track
     ports:
       - 8080:8080
 
